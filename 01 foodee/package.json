@@ -1,0 +1,22 @@
+{
+  "name": "Foodee",
+  "version": "1.0.0",
+  "description": "One Page Responsive Free HTML5 template",
+  "main": "index.js",
+  "repository": "https://github.com/technext/100-template-list/tree/master/01%20foodee",
+  "author": "FREEHTML5.co",
+  "license": "MIT",
+  "dependencies": {
+    "animate.css": "^3.5.2",
+    "bootstrap": "^3.3.7",
+    "eonasdan-bootstrap-datetimepicker": "^4.17.47",
+    "icomoon": "^1.0.0",
+    "jquery": "^3.2.1",
+    "jquery-waypoints": "^2.0.5",
+    "jquery.easing": "^1.4.1",
+    "jquery.stellar": "^0.6.2",
+    "modernizr": "^3.5.0",
+    "respond.js": "^1.4.2",
+    "simple-line-icons": "^2.4.1"
+  }
+}
