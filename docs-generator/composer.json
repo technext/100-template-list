@@ -1,0 +1,17 @@
+{
+    "name": "defro/100-template-list",
+    "description": "Doc generator to list all template in directory and display screenshot",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joël Gaujard",
+            "email": "j.gaujard@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "symfony/finder": "^5.0",
+        "symfony/filesystem": "^5.0"
+    }
+}
